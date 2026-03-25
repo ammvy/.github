@@ -19,27 +19,6 @@ Para o desenvolvimento deste projeto, utilizamos as seguintes tecnologias:
 
 ---
 
-## 📅 Roadmap e Entregas (Semestral)
-
-Este cronograma demonstra o que foi desenvolvido ao longo do semestre, organizado por marcos principais:
-
-### Primeiro Bimestre (Fundamentação e Planejamento)
-- [x] Definição de escopo e requisitos.
-- [x] Desenho da arquitetura inicial.
-- [x] Configuração do ambiente de desenvolvimento.
-
-### Segundo Bimestre (Desenvolvimento e Implementação)
-- [/] Implementação das funcionalidades principais (MVP).
-- [ ] Integração com serviços externos.
-- [ ] Testes unitários e de integração.
-
-### Final do Semestre (Polimento e Entrega)
-- [ ] Documentação final do projeto.
-- [ ] Vídeo de demonstração/Pitch.
-- [ ] Deploy da versão estável.
-
----
-
 ## 👤 Equipe e Contribuidores
 
 | Integrante | Função | GitHub |
@@ -60,23 +39,6 @@ Este cronograma demonstra o que foi desenvolvido ao longo do semestre, organizad
 ├── tests/            # Suíte de testes
 └── README.md         # Documentação principal (este arquivo)
 ```
-
----
-
-## 🛠️ Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/[ORG]/[REPO].git
-   ```
-2. Instale as dependências:
-   ```bash
-   [comando_de_instalacao]
-   ```
-3. Inicie o projeto:
-   ```bash
-   [comando_de_inicio]
-   ```
 
 ---
 
