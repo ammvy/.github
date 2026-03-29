@@ -1,0 +1,32 @@
+<svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Optional: Google Font Import for Poppins-style look -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pirata+One');
+    .logo-text { font-family: 'Pirata One', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 85px; }
+  </style>
+
+  <!-- Pure White Background (remove this rect for transparency) -->
+  <rect width="800" height="300" fill="none"/>
+
+  <!-- ICON GROUP (Shifted Left) -->
+  <g id="CPU-Icon" transform="translate(90, 40) scale(0.4)">
+    <!-- CPU Main Body (Deep Charcoal) -->
+    <!-- <path d="M106 80C91.6406 80 80 91.6406 80 106V160H70V190H80V241H70V271H80V322H70V352H80V406C80 420.359 91.6406 432 106 432H160V442H190V432H241V442H271V432H322V442H352V432H406C420.359 432 432 420.359 432 406V352H442V322H432V271H442V241H432V190H442V160H432V106C432 91.6406 420.359 80 406 80H352V70H322V80H271V70H241V80H190V70H160V80H106Z" fill="#2B2D42"/> -->
+    
+    <!-- Data Comparison Bars (Vibrant Crimson) -->
+    <rect x="175" y="240" width="34" height="60" rx="4" fill="#D62828"/>
+    <rect x="239" y="190" width="34" height="110" rx="4" fill="#D62828"/>
+    <rect x="303" y="140" width="34" height="160" rx="4" fill="#D62828"/>
+    
+    <!-- Compatibility Checkmarks (Vibrant Crimson) -->
+    <path d="M177 360L187 370L207 350" stroke="#D62828" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M241 360L251 370L271 350" stroke="#D62828" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M305 360L315 370L335 350" stroke="#D62828" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- TEXT GROUP (Aligned Right of Icon) -->
+  <text x="260" y="170" class="logo-text">
+    <tspan fill="#2B2D42">Hard</tspan>
+    <tspan fill="#D62828">Dex</tspan>
+  </text>
+</svg>

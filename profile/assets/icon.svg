@@ -1,0 +1,23 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pure White Background -->
+  <!-- <rect width="512" height="512" fill="white"/> -->
+  
+  <!-- CPU Main Body (Deep Charcoal) -->
+  <path d="M106 80C91.6406 80 80 91.6406 80 106V160H70V190H80V241H70V271H80V322H70V352H80V406C80 420.359 91.6406 432 106 432H160V442H190V432H241V442H271V432H322V442H352V432H406C420.359 432 432 420.359 432 406V352H442V322H432V271H442V241H432V190H442V160H432V106C432 91.6406 420.359 80 406 80H352V70H322V80H271V70H241V80H190V70H160V80H106Z" fill="#2B2D42"/>
+  
+  <!-- Data Comparison Bars (Vibrant Crimson) -->
+  <rect x="175" y="240" width="34" height="60" rx="4" fill="#D62828"/>
+  <rect x="239" y="190" width="34" height="110" rx="4" fill="#D62828"/>
+  <rect x="303" y="140" width="34" height="160" rx="4" fill="#D62828"/>
+  
+  <!-- Bottom Divider Line -->
+  <rect x="140" y="340" width="232" height="6" rx="3" fill="white" fill-opacity="0.2"/>
+  
+  <!-- Compatibility Checkmarks (Vibrant Crimson) -->
+  <!-- Checkmark 1 -->
+  <path d="M175 385L185 395L205 375" stroke="#D62828" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmark 2 -->
+  <path d="M246 385L256 395L276 375" stroke="#D62828" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmark 3 -->
+  <path d="M317 385L327 395L347 375" stroke="#D62828" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
